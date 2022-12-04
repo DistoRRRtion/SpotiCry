@@ -1,4 +1,5 @@
 ## SpotiCry
+![Снимок экрана 2022-12-04 201842](https://user-images.githubusercontent.com/99020542/205508336-556e6261-a506-4cf6-8d91-d8f83dca8943.png)
 ___
 
 ## Getting Started with Create React App
